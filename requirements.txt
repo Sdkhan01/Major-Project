@@ -3,3 +3,10 @@ pandas
 seaborn
 flask
 sqlalchemy
+matplotlib
+plotly
+scipy
+numpy
+datetime
+openpyxl
+
